@@ -1,2 +1,2 @@
-# todolist
+# Todolist
 I made this TodoList
